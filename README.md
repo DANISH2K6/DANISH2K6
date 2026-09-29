@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Danish Kumar 👋
 
-<!--
-**DANISH2K6/DANISH2K6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechatronics Engineering Student  
+📍 MUET Jamshoro, Pakistan
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Mechatronics Engineering student interested in
+programming, embedded systems, Arduino, robotics and
+engineering projects.
+
+## Skills
+
+- C / C++
+- Arduino
+- Embedded Systems
+- Basic Python
+- SolidWorks
+- Git & GitHub
+
+## Currently Learning
+
+- Embedded Systems
+- Microcontrollers
+- Robotics
+- Python
+- Engineering Software
+
+## Projects
+
+🚧 Projects coming soon...
+
+## Connect With Me
+
+- LinkedIn: [Danish Kumar](www.linkedin.com/in/danish-kumar-muet)
