@@ -5,9 +5,11 @@
 
 ## About Me
 
-I'm a Mechatronics Engineering student interested in
-programming, embedded systems, Arduino, robotics and
-engineering projects.
+I'm a Mechatronics Engineering student interested in programming,
+embedded systems, robotics, automation, and engineering projects.
+
+I enjoy learning through practical projects and gradually building
+my skills in software and hardware.
 
 ## Skills
 
@@ -20,16 +22,16 @@ engineering projects.
 
 ## Currently Learning
 
-- Embedded Systems
 - Microcontrollers
+- Embedded Programming
 - Robotics
 - Python
-- Engineering Software
+- Engineering Projects
 
 ## Projects
 
-🚧 Projects coming soon...
+🚧 Projects are currently being developed.
 
 ## Connect With Me
 
-- LinkedIn: [Danish Kumar](www.linkedin.com/in/danish-kumar-muet)
+- LinkedIn: [Danish Kumar](https://www.linkedin.com/in/danish-kumar-muet/)
